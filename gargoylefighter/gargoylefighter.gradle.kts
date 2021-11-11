@@ -23,9 +23,9 @@
  * SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-version = "0.0.3"
+version = "0.0.4"
 
-project.extra["PluginName"] = "Pinq's Gargoyle Fighter"
+project.extra["PluginName"] = "Gerwin Fighter"
 project.extra["PluginDescription"] = "Bops gargoyles on the snousey"
 
 dependencies {

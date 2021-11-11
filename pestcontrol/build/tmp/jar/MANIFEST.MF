@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Plugin-Version: 1.0.2
+Plugin-Version: 1.0.3
 Plugin-Id: gerwinpestcontrol-plugin
 Plugin-Provider: gerwin
 Plugin-Dependencies: iutils-plugin
