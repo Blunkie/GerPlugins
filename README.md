@@ -1,4 +1,4 @@
-This is a copy of pinq's plugins updated to work with iutils
+# Pinkarns OpenOSRS Plugins
 
-Use Illumineawake Iutils:
-https://github.com/illumineawake/illu-plugins/
+Use Illumineawake BotUtils:
+https://github.com/illumineawake/illu-plugins/tree/master/botutils
